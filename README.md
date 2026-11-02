@@ -1,5 +1,7 @@
 # Deskpilot
 
+**Live demo: [deskpilot-two.vercel.app](https://deskpilot-two.vercel.app)**
+
 **A support inbox where Gemini triages every ticket and drafts grounded replies that stream in live.**
 Built with Next.js 16 (App Router). Runs in demo mode: one click to start, no sign-up, and each
 visitor's inbox lives in their own browser.
